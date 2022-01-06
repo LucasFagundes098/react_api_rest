@@ -1,10 +1,10 @@
 import React from 'react';
-import App from '../App';
+import Home from '../Home';
 
 function HomeView() {
     return (
         <div>
-            <App/>
+            <Home/>
         </div>
     )
 }
